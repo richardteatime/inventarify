@@ -1,0 +1,11 @@
+prodotto,quantità_attuale,unità,soglia_riordino
+Pomodori,10,kg,2.0
+Mozzarella,5,kg,1.0
+Guanciale,3,kg,1.0
+Uova,30,pz,10.0
+Pecorino Romano,2,kg,0.5
+Pasta Bigoli,20,kg,5.0
+Costata di Manzo,10,kg,2.0
+Vino Rosso,20,bottiglie,5.0
+Acqua Naturale,50,bottiglie,10.0
+Olio d'oliva,5,litri,1.0
