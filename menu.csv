@@ -4,17 +4,72 @@ Bigoli all'Amatriciana,Guanciale,0.05
 Bigoli all'Amatriciana,Pomodori,0.1
 Bigoli all'Amatriciana,Pecorino Romano,0.02
 Bigoli all'Amatriciana,Uova,1.0
+Bigoli al Ragù d'Anatra,Pasta Bigoli,0.1
+Bigoli al Ragù d'Anatra,Carne di Anatra,0.1
+Bigoli al Ragù d'Anatra,Pomodori,0.1
+Bigoli al Ragù d'Anatra,Vino Rosso,0.03
+Bigoli Cacio e Pepe,Pasta Bigoli,0.1
+Bigoli Cacio e Pepe,Pecorino Romano,0.03
+Bigoli Cacio e Pepe,Pepe Nero,0.001
+Orecchiette con Salsiccia e Cime di Rapa,Orecchiette,0.1
+Orecchiette con Salsiccia e Cime di Rapa,Salsiccia,0.08
+Orecchiette con Salsiccia e Cime di Rapa,Cime di Rapa,0.1
+Orecchiette con Salsiccia e Cime di Rapa,Olio d'oliva,0.02
+Carbonara con Asparagi,Pasta Paccheri,0.1
+Carbonara con Asparagi,Guanciale,0.05
+Carbonara con Asparagi,Uovo,1.0
+Carbonara con Asparagi,Pecorino Romano,0.03
+Carbonara con Asparagi,Asparagi,0.05
+Fiorentina di Manzo alla Brace,Fiorentina di Manzo,0.4
+Fiorentina di Manzo alla Brace,Olio d'oliva,0.02
+Fiorentina di Manzo alla Brace,Sale,0.01
 Costata di Manzo alla Brace,Costata di Manzo,0.4
 Costata di Manzo alla Brace,Olio d'oliva,0.02
-Costata di Manzo alla Brace,Acqua Naturale,1.0
-Mozzarella in Carrozza,Mozzarella,0.2
-Mozzarella in Carrozza,Uova,1.0
-Mozzarella in Carrozza,Olio d'oliva,0.03
-Tagliata di Manzo,Costata di Manzo,0.3
-Tagliata di Manzo,Olio d'oliva,0.02
-Tagliata di Manzo,Acqua Naturale,1.0
-Pasta al Pomodoro,Pasta Bigoli,0.1
-Pasta al Pomodoro,Pomodori,0.1
-Pasta al Pomodoro,Olio d'oliva,0.01
-Bottiglia Vino Rosso,Vino Rosso,1.0
-Bottiglia Acqua Naturale,Acqua Naturale,1.0
+Costata di Manzo alla Brace,Sale,0.01
+Fiorentina di Fassona Piemontese alla Brace,Fiorentina di Fassona,0.4
+Fiorentina di Fassona Piemontese alla Brace,Olio d'oliva,0.02
+Fiorentina di Fassona Piemontese alla Brace,Sale,0.01
+Costata Piemontese alla Brace,Costata di Fassona,0.4
+Costata Piemontese alla Brace,Olio d'oliva,0.02
+Costata Piemontese alla Brace,Sale,0.01
+Fiorentina DRY AGED,Fiorentina Dry Aged,0.4
+Fiorentina DRY AGED,Olio d'oliva,0.02
+Fiorentina DRY AGED,Sale,0.01
+Costata DRY AGED,Costata Dry Aged,0.4
+Costata DRY AGED,Olio d'oliva,0.02
+Costata DRY AGED,Sale,0.01
+Costata Angus Scozia,Costata Angus,0.4
+Costata Angus Scozia,Olio d'oliva,0.02
+Costata Angus Scozia,Sale,0.01
+Spiedone di Picanha alla Brace,Carne di Picanha,0.3
+Spiedone di Picanha alla Brace,Olio d'oliva,0.02
+Spiedone di Picanha alla Brace,Spezie,0.005
+Grigliata Fantasia,Carne Mista (Manzo, Angus, Picanha),0.4
+Grigliata Fantasia,Polenta Fritta,0.2
+Grigliata Fantasia,Verdure Miste,0.15
+Grigliata del Buon Gustaio,Carne Mista (Bufala, Manzo, Angus),0.4
+Grigliata del Buon Gustaio,Polenta Fritta,0.2
+Grigliata del Buon Gustaio,Verdure Miste,0.15
+Tartare,Carne di Manzo,0.2
+Tartare,Cipolla di Tropea,0.03
+Tartare,Capperi,0.01
+Tartare,Salsa Worcestershire,0.01
+Tartare,Uovo,1.0
+Tartare,Senape,0.005
+Tagliata di Manzo alla Brace,Tagliata di Manzo,0.3
+Tagliata di Manzo alla Brace,Olio d'oliva,0.02
+Tagliata di Manzo alla Brace,Sale,0.01
+Sovracosce di Pollo alla Brace,Sovracosce di Pollo,0.3
+Sovracosce di Pollo alla Brace,Olio d'oliva,0.02
+Filetto di Manzetta Prussiana,Filetto di Manzetta,0.3
+Filetto di Manzetta Prussiana,Olio d'oliva,0.02
+Spiedone di Carne Mista alla Brace,Carne Mista (Manzo, Picanha, Lombatello),0.3
+Spiedone di Carne Mista alla Brace,Olio d'oliva,0.02
+Tagliata di Pollo,Tagliata di Pollo,0.3
+Tagliata di Pollo,Olio d'oliva,0.02
+Tagliata di Pollo,Sale,0.01
+Tagliata di Lombatello alla Brace,Tagliata di Lombatello,0.3
+Tagliata di Lombatello alla Brace,Olio d'oliva,0.02
+Tagliata di Lombatello alla Brace,Sale,0.01
+Piatto Vegetariano,Verdure Miste,0.2
+Piatto Vegetariano,Scamorza Affumicata,0.1
