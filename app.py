@@ -128,10 +128,10 @@ elif section == "📊 Analytics":
         sotto_df = inventario_df[inventario_df["sotto_soglia"] == True]
         if not sotto_df.empty:
             soglia_chart = alt.Chart(sotto_df).mark_bar(color='#d62728').encode(
-                x=alt.X("prodotto", sort="-y"),
-                y="quantità_aggiornata",
+                y=alt.X("prodotto", sort="-y"),
+                x="quantità_aggiornata",
                 tooltip=["prodotto", "quantità_aggiornata", "soglia_riordino"]
-            ).properties(width=800)
+            ).properties(width=800, height=500)
             st.altair_chart(soglia_chart, use_container_width=True)
         else:
             st.success("✅ Nessun prodotto sotto soglia.")
